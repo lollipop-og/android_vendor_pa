@@ -24,6 +24,7 @@ add_lunch_combo pa_dlx-userdebug
 add_lunch_combo pa_galaxysmtd-userdebug
 add_lunch_combo pa_gee-userdebug
 add_lunch_combo pa_geeb-userdebug
+add_lunch_combo pa_geehrc-userdebug
 add_lunch_combo pa_ghost-userdebug
 add_lunch_combo pa_hammerhead-userdebug
 add_lunch_combo pa_hercules-userdebug
